@@ -7,4 +7,4 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
-* Creado por Ivan Alav
+* Creado por Ivan Alav SIUUUUUUUUUU
